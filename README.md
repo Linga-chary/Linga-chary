@@ -137,11 +137,12 @@ https://github.com/Linga-chary
 
 LinkedIn
 
-(Add your LinkedIn URL)
+www.linkedin.com/in/lingachary-sriramdas-615996360
+
 
 Email
 
-(Add your Email)
+sriramdaslingachary@gmail.com
 
 ---
 
