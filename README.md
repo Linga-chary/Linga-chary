@@ -60,52 +60,22 @@
 
 ---
 
-# 🚀 Projects
+## PROJECTS
 
-## 🎥 Video Object Detection
+**1. Fertilizer Recommendation System | Python, Scikit-learn, Flask, Docker**
+- Developed a machine learning application to recommend suitable fertilizers based on soil and crop-related input parameters.
+- Implemented a Decision Tree-based prediction pipeline and integrated it with a Flask web application.
+- Containerized the application using Docker and worked on cloud deployment using AWS EC2.
 
-Detects multiple objects from uploaded videos using AI.
+**2. Real-Time Object Detection using YOLO | Python, YOLOv8, OpenCV**
+- Developed a computer vision application to detect and classify multiple objects in real time using the YOLOv8 model.
+- Used OpenCV to process video frames and display bounding boxes, class labels, and detection results.
+- Explored object detection for live video streams and visual monitoring applications.
 
-**Tech Used**
-
-- React
-- TensorFlow
-- OpenCV
-- JavaScript
-
-Features
-
-- Upload Video
-- Detect Objects
-- Bounding Boxes
-- Object Count
-- Real-Time Detection
-
----
-
-## 🥜 Nut Image Classification
-
-Deep Learning model that classifies 11 different nut types using MobileNetV2.
-
-Tech
-
-- TensorFlow
-- Python
-- Google Colab
-
----
-
-## 🤖 AI Interview Assistant
-
-AI-powered interview preparation platform.
-
-Features
-
-- AI Question Generation
-- Interview Practice
-- Performance Feedback
-
----
+**3. Video Object Detection using COCO-SSD | React, JavaScript, TensorFlow.js**
+- Developed a web application to detect multiple objects in uploaded videos using the COCO-SSD pre-trained model.
+- Implemented bounding boxes and object labels to visualize detected objects across video frames.
+- Designed an interactive interface to display video detection results and object counts.---
 
 # 📚 Currently Learning
 
@@ -114,20 +84,6 @@ Features
 - Generative AI
 - Cloud Computing
 - Docker
-
----
-
-# 🎯 2026 Goals
-
-✅ Build 10 AI Projects
-
-✅ Learn MLOps
-
-✅ Open Source Contributions
-
-✅ Get an AI Internship
-
----
 
 ## 📫 Connect With Me
 
